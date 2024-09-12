@@ -100,11 +100,11 @@ const Home = () => {
           <span className="font-bold">{currentTime}</span>
         </div>
         <div className="flex flex-col items-center p-5 mt-5">
-          <Image src="/album_art.jpg" alt="Album Art" width={430} height={430} className="rounded shadow-lg mb-4" />
+          <Image src="/album_art.jpg" alt="Album Art" width={330} height={440} className="rounded shadow-lg mb-4" />
           <div className="flex items-center justify-between w-full">
             <div>
-              <h1 className="text-xl font-bold text-left">Song Name</h1>
-              <p className="text-sm text-left">Artist Name</p>
+              <h1 className="text-xl font-bold text-left">Flos</h1>
+              <p className="text-sm text-left">Anon Chihaya</p>
             </div>
             <button
               aria-label="Favorite"
